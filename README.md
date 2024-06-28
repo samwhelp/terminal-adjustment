@@ -11,13 +11,13 @@
 
 ## Subject
 
-* [Terminal Adjustment](#terminal-adjustment)
+* [Terminal Config](#terminal-config)
 
 
 
 
-## Terminal Adjustment
+## Terminal Config
 
-| Terminal Adjustment |
+| Terminal Config |
 | ------------------  |
 | [Terminal Config](https://github.com/samwhelp/terminal-adjustment/tree/main/prototype/main/tool-config/part) |
